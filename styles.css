@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.imageContainer {
+      margin-bottom: 20px;
+    }
+    table {
+      border-collapse: collapse;
+      table-layout: fixed;
+      width: 1100px;
+      margin: 0 auto;
+    }
+    td {
+      text-align: center;
+      padding: 10px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
